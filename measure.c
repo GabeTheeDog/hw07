@@ -6,7 +6,7 @@ int square(int x) {
 }
 
 int min2(int a, int b) {
-    if(a>b){
+    if (a>b) {
         return b;
     } else {
         return a;
